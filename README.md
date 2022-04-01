@@ -1,6 +1,9 @@
 *Hi* 👋
 ======
 
+>[Linkedin](https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-topta%C5%9F-66444020b/) 
+
+
 ![elbformat-coding](https://user-images.githubusercontent.com/81236984/161132757-e30a7ff4-b177-49fd-8381-1ba8ec385a5c.gif)
 
 >![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,5 +23,8 @@
 ![image](https://img.shields.io/badge/LinkedIn-Gmail-red?link=http:/logo=linkedin&link=http://logo=gmail)
 
 -->
+
+
+
 
 ![code-coding](https://user-images.githubusercontent.com/81236984/161132993-57d4a2ba-29e7-4d5b-bd66-f9318aed48d1.gif)
